@@ -1,0 +1,15 @@
+﻿# косметика
+# (c) zet
+Index: src\Info\InfoWindow.java
+===================================================================
+--- InfoWindow.java	(revision 843)
++++ InfoWindow.java	(working copy)
+@@ -60,7 +60,7 @@
+         try {
+             conn_stats=StaticData.getInstance().roster.theStream.getStreamStats();
+         } catch (Exception e) {
+-            conn_stats="disconnected";
++            conn_stats="Disconnected";
+         }
+         form.append(conn_stats);
+ //#endif
