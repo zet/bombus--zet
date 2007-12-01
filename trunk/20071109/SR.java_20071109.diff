@@ -1,0 +1,30 @@
+﻿# небольшие обновления для возможности локализации
+# (c) zet
+Index: src/locale/SR.java
+===================================================================
+--- SR.java	(revision 1217)
++++ SR.java	(working copy)
+@@ -199,9 +199,9 @@
+     public   static String MS_SUSPEND = loadString( "Suspend" );
+     public   static String MS_ALERT_PROFILE_CMD = loadString( "Alert Profile >" );
+     public   static String MS_MY_VCARD = loadString( "My vCard" );
+-    public   static String MS_TRANSPORTS = loadString( "transports" );
++    public   static String MS_TRANSPORTS = loadString( "Transports" );
+     public   static String MS_NEW_ACCOUNT = loadString( "New Account" );
+-    public   static String MS_SELF_CONTACT = loadString( "self-contact" );
++    public   static String MS_SELF_CONTACT = loadString( "Self-contact" );
+     public   static String MS_VCARD = loadString( "vCard" );
+     public   static String MS_SET_SUBJECT = loadString( "Set Subject" );
+     public   static String MS_TOOLS = loadString( "Tools" );
+@@ -349,6 +349,11 @@
+     public static String MS_SUBSCR_DROP=loadString("Drop subscription");
+     public static String MS_SUBSCR_REJECT=loadString("Deny subscription");  //TODO: correct according to RFC
+     
++//2007-11-07
++    public static String MS_SEARCH=loadString("Search");
++    public static String MS_REGISTER=loadString("Register");
++    
++    
+     public static String MS_XMLLANG;
+     public static String MS_IFACELANG;
+ 

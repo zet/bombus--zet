@@ -1,0 +1,15 @@
+﻿# "Cancel" -> "Back"
+# (c) zet <shelukhin@mail.ru>
+Index: src/ServiceDiscovery/DiscoForm.java
+===================================================================
+--- DiscoForm.java	(revision 1147)
++++ DiscoForm.java	(working copy)
+@@ -57,7 +57,7 @@
+     private boolean xData;
+     
+     private Command cmdOk=new Command(SR.MS_SEND, Command.OK /*Command.SCREEN*/, 1);
+-    private Command cmdCancel=new Command(SR.MS_CANCEL, Command.BACK, 99);
++    private Command cmdCancel=new Command(SR.MS_BACK, Command.BACK, 99);
+     
+     private String id;
+     
