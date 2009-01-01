@@ -1,0 +1,15 @@
+# Перевод строки перед [no vCard available]
+# (c) zet
+Index: src\vcard\vCardForm.java
+===================================================================
+--- vCardForm.java	(revision 871)
++++ vCardForm.java	(working copy)
+@@ -89,7 +89,7 @@
+         }
+         
+         if (vcard.isEmpty() && !editable) 
+-            f.append("[no vCard available]"); 
++            f.append("\n[no vCard available]"); 
+         else { 
+             photoIndex=f.append("[no photo available]");
+             
