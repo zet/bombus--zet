@@ -1,0 +1,32 @@
+﻿# "цветовая схема", "отключен" и пр.
+# (c) zet <zet@bombus-im.org>
+Index: resources/text/lang/ru.txt
+===================================================================
+--- ru.txt	(revision 1226)
++++ ru.txt	(working copy)
+@@ -170,9 +170,9 @@
+ Resume Message	Черновик
+ Alert Profile >	Сигналы >
+ My vCard	Личная vCard
+-transports	транспорты
++Transports	Транспорты
+ New Account	Новый аккаунт
+-self-contact	свои контакты
++Self-contact	Свои контакты
+ vCard	vCard
+ Set Subject	Установить тему
+ Tools	Инструменты
+@@ -290,7 +290,7 @@
+ not available	недоступен
+ invisible	невидим
+ do not disturb	не беспокоить
+-offline	отключился
++offline	отключен
+ Join marked (auto)	Подключиться к отмеченным для автовхода
+ shared platform info	показывать модель устройства
+ delivery events	отчёты о доставке
+@@ -332,3 +332,4 @@
+ Deny subscription	запрещать
+ Search	Поиск
+ Register	Регистрация
++Color theme	Цветовая тема

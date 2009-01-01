@@ -1,0 +1,14 @@
+# дата последнего обновления ru-локализации
+# (c) zet zet@bombus-im.org
+Index: src/locale/SR.java
+===================================================================
+--- src/locale/SR.java	(revision 1338)
++++ src/locale/SR.java	(working copy)
+@@ -365,6 +365,7 @@
+     public static String MS_XMLLANG;
+     public static String MS_IFACELANG;
+ 
++//2008-05-04
+     public static String MS_NO_COMPRESSION = loadString( "No compression" );
+ 
+     public static String MS_NEW_ROOM_CREATED = loadString( "New room created" );

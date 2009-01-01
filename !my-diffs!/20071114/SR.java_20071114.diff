@@ -1,0 +1,105 @@
+﻿# локализация некоторых итемов + мелкие правки
+# (c) zet <zet@bombus-im.org>
+Index: src/locale/SR.java
+===================================================================
+--- SR.java	(revision 1226)
++++ SR.java	(working copy)
+@@ -199,9 +199,9 @@
+     public   static String MS_SUSPEND = loadString( "Suspend" );
+     public   static String MS_ALERT_PROFILE_CMD = loadString( "Alert Profile >" );
+     public   static String MS_MY_VCARD = loadString( "My vCard" );
+-    public   static String MS_TRANSPORTS = loadString( "transports" );
++    public   static String MS_TRANSPORTS = loadString( "Transports" );
+     public   static String MS_NEW_ACCOUNT = loadString( "New Account" );
+-    public   static String MS_SELF_CONTACT = loadString( "self-contact" );
++    public   static String MS_SELF_CONTACT = loadString( "Self-contact" );
+     public   static String MS_VCARD = loadString( "vCard" );
+     public   static String MS_SET_SUBJECT = loadString( "Set Subject" );
+     public   static String MS_TOOLS = loadString( "Tools" );
+@@ -218,33 +218,33 @@
+     public   static String MS_CLEAR=loadString( "Clear" );
+     public   static String MS_SELLOGIN = loadString( "Connect" );
+ //--toon
+-    public   static String MS_UNAFFILIATE = loadString("Unaffiliate");
+-    public   static String MS_GRANT_MODERATOR = loadString("Grant Moderator");
+-    public   static String MS_REVOKE_MODERATOR = loadString("Revoke Moderator");
+-    public   static String MS_GRANT_ADMIN = loadString("Grant Admin");
+-    public   static String MS_GRANT_OWNERSHIP = loadString("Grant Ownership");
++    public   static String MS_UNAFFILIATE = loadString( "Unaffiliate" );
++    public   static String MS_GRANT_MODERATOR = loadString( "Grant Moderator" );
++    public   static String MS_REVOKE_MODERATOR = loadString( "Revoke Moderator" );
++    public   static String MS_GRANT_ADMIN = loadString( "Grant Admin" );
++    public   static String MS_GRANT_OWNERSHIP = loadString( "Grant Ownership" );
+ //--toon
+     
+-    public   static String MS_VIZITORS_FORBIDDEN=loadString("Visitors are not allowed to send messages to all occupants");
+-    public   static String MS_IS_INVITING_YOU=loadString(" is inviting You to ");
+-    public   static String MS_ASK_SUBSCRIPTION=loadString( "Ask subscription");
+-    public   static String MS_GRANT_SUBSCRIPTION=loadString("Grant subscription");
+-    public   static String MS_INVITE=loadString("Invite to conference");
+-    public   static String MS_INVITE_REASON=loadString("Reason");
+-    public   static String MS_YOU_HAVE_BEEN_INVITED=loadString("You have been invited to ");
+-    public   static String MS_DISCO_ROOM=loadString("Participants");
+-    public   static String MS_CAPS_STATE=loadString("Abc");
++    public   static String MS_VIZITORS_FORBIDDEN=loadString( "Visitors are not allowed to send messages to all occupants" );
++    public   static String MS_IS_INVITING_YOU=loadString( " is inviting You to " );
++    public   static String MS_ASK_SUBSCRIPTION=loadString( "Ask subscription" );
++    public   static String MS_GRANT_SUBSCRIPTION=loadString( "Grant subscription" );
++    public   static String MS_INVITE=loadString( "Invite to conference" );
++    public   static String MS_INVITE_REASON=loadString( "Reason" );
++    public   static String MS_YOU_HAVE_BEEN_INVITED=loadString( "You have been invited to " );
++    public   static String MS_DISCO_ROOM=loadString( "Participants" );
++    public   static String MS_CAPS_STATE=loadString( "Abc" );
+     
+     public   static String MS_STORE_PRESENCE = loadString( "room presences" );
+     
+-    public   static String MS_IS_NOW_KNOWN_AS=loadString(" is now known as ");
+-    public   static String MS_WAS_BANNED=loadString(" was banned ");
+-    public   static String MS_WAS_KICKED=loadString(" was kicked ");
+-    public   static String MS_HAS_BEEN_KICKED_BECAUSE_ROOM_BECAME_MEMBERS_ONLY=loadString(" has been kicked because room became members-only");
+-    public   static String MS_HAS_LEFT_CHANNEL=loadString(" has left the channel");
+-    public   static String MS_HAS_JOINED_THE_CHANNEL_AS=loadString(" has joined the channel as ");
+-    public   static String MS_AND=loadString(" and ");
+-    public   static String MS_IS_NOW=loadString(" is now ");    
++    public   static String MS_IS_NOW_KNOWN_AS=loadString( " is now known as " );
++    public   static String MS_WAS_BANNED=loadString( " was banned " );
++    public   static String MS_WAS_KICKED=loadString( " was kicked " );
++    public   static String MS_HAS_BEEN_KICKED_BECAUSE_ROOM_BECAME_MEMBERS_ONLY=loadString( " has been kicked because room became members-only" );
++    public   static String MS_HAS_LEFT_CHANNEL=loadString( " has left the channel" );
++    public   static String MS_HAS_JOINED_THE_CHANNEL_AS=loadString( " has joined the channel as " );
++    public   static String MS_AND=loadString( " and " );
++    public   static String MS_IS_NOW=loadString( " is now " );    
+     
+ //2007-04-11
+     public   static String MS_AUTOFOCUS = loadString( "autofocus" );
+@@ -344,16 +344,23 @@
+     
+     
+ //2007-11-04
+-    public static String MS_SUBSCR_AUTO=loadString("Automatic subscription");
+-    public static String MS_SUBSCR_ASK=loadString("Ask me");
+-    public static String MS_SUBSCR_DROP=loadString("Drop subscription");
+-    public static String MS_SUBSCR_REJECT=loadString("Deny subscription");  //TODO: correct according to RFC
++    public static String MS_SUBSCR_AUTO=loadString( "Automatic subscription" );
++    public static String MS_SUBSCR_ASK=loadString( "Ask me" );
++    public static String MS_SUBSCR_DROP=loadString( "Drop subscription" );
++    public static String MS_SUBSCR_REJECT=loadString( "Deny subscription" );  //TODO: correct according to RFC
+     
+ //2007-11-07
+-    public static String MS_SEARCH=loadString("Search");
+-    public static String MS_REGISTER=loadString("Register");
++    public static String MS_SEARCH=loadString( "Search" );
++    public static String MS_REGISTER=loadString( "Register" );
++    public static String MS_COLOR_THEME=loadString( "Color theme" );
++    public static String MS_MEMORY=loadString( "Memory:" );
++    public static String MS_MEMORY_FREE=loadString( "Free=" );
++    public static String MS_MEMORY_TOTAL=loadString( "Total=" );
++    public static String MS_VERSIONS=loadString( "Versions" );
++    public static String MS_INSTALL=loadString( "Install" );
++    public static String MS_AVAILABLE_VERSIONS=loadString( "Available versions" );
++        
+     
+-    
+     public static String MS_XMLLANG;
+     public static String MS_IFACELANG;
+ 

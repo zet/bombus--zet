@@ -1,0 +1,23 @@
+﻿# Вынос Active Contacts в ростере на правую софт-кнопку на аппаратах Nokia
+# (c) zet
+Index: src\Client\Roster.java
+===================================================================
+--- Roster.java	(revision 822)
++++ Roster.java	(working copy)
+@@ -92,7 +92,7 @@
+     
+     private Command cmdActions=new Command(SR.MS_ITEM_ACTIONS, Command.SCREEN, 1);
+     private Command cmdStatus=new Command(SR.MS_STATUS_MENU, Command.SCREEN, 2);
+-    private Command cmdActiveContact=new Command(SR.MS_ACTIVE_CONTACTS, Command.SCREEN, 3);
++    private Command cmdActiveContact=new Command(SR.MS_ACTIVE_CONTACTS, Command.BACK, 3);
+     private Command cmdAlert=new Command(SR.MS_ALERT_PROFILE_CMD, Command.SCREEN, 8);
+     private Command cmdConference=new Command(SR.MS_CONFERENCE, Command.SCREEN, 10);
+     private Command cmdArchive=new Command(SR.MS_ARCHIVE, Command.SCREEN, 10);
+@@ -970,6 +970,7 @@
+                         String myNick=mucGrp.getSelfContact().getName();
+                         highlite |= body.indexOf(myNick)>-1;
+                         //TODO: custom highliting dictionary
++                        if (body.indexOf("evgs")>-1) m.setHighlite(true);
+                     } 
+                 }
+                 m.setHighlite(highlite);  

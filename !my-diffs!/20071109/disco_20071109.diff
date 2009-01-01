@@ -1,0 +1,32 @@
+﻿# команда back в форме disco
+# (c) zet
+Index: src/ServiceDiscovery/DiscoForm.java
+===================================================================
+--- DiscoForm.java	(revision 1217)
++++ DiscoForm.java	(working copy)
+@@ -57,7 +57,7 @@
+     private boolean xData;
+     
+     private Command cmdOk=new Command(SR.MS_SEND, Command.OK /*Command.SCREEN*/, 1);
+-    private Command cmdCancel=new Command(SR.MS_CANCEL, Command.BACK, 99);
++    private Command cmdCancel=new Command(SR.MS_BACK, Command.BACK, 99);
+     
+     private String id;
+     
+# "Register" -> SR.MS_REGISTER и "Search" -> SR.MS_SEARCH
+# (c) zet
+Index: src/ServiceDiscovery/ServiceDiscovery.java
+===================================================================
+--- ServiceDiscovery.java	(revision 1217)
++++ ServiceDiscovery.java	(working copy)
+@@ -58,8 +58,8 @@
+     
+     
+     //private final static String strJoin="Join Conference";
+-    private final static String strReg="Register";
+-    private final static String strSrch="Search";
++    private final static String strReg=SR.MS_REGISTER;
++    private final static String strSrch=SR.MS_SEARCH;
+     private final static String strCmds="Execute";
+     private final int AD_HOC_INDEX=17;
+     

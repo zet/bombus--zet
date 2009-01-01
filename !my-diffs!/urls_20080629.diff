@@ -1,0 +1,61 @@
+#добавление "https://", "ftp://", "tel:", "native:" в список URL, на которые можно перейти 
+#(переход на ссылку "tel:87771234567" - звонок по этому номеру, про "native:" знают владельцы сименсов)
+#
+#add "https://", "ftp://", "tel:", "native:" to the URLs list
+#("tel:87771234567" - calling to this abonent from midlet, "native:" - for siemens only)
+
+Index: src/Messages/MessageParser.java
+===================================================================
+--- src/Messages/MessageParser.java	(revision 1366)
++++ src/Messages/MessageParser.java	(working copy)
+@@ -172,11 +172,19 @@
+             e.printStackTrace();
+         }
+ 	addSmile(root, "http://", URL);
++        addSmile(root, "https://",URL);
++        addSmile(root, "ftp://",URL);
++        addSmile(root, "tel:",URL);
++        addSmile(root, "native:",URL);
+         addSmile(root, "\01", ComplexString.NICK_ON);
+         addSmile(root, "\02", ComplexString.NICK_OFF);
+         
+         emptyRoot=new Leaf();
+ 	addSmile(emptyRoot, "http://", URL);
++        addSmile(emptyRoot, "https://",URL);
++        addSmile(emptyRoot, "ftp://",URL);
++        addSmile(emptyRoot, "tel:",URL);
++        addSmile(emptyRoot, "native:",URL);
+         addSmile(emptyRoot, "\01", ComplexString.NICK_ON);
+         addSmile(emptyRoot, "\02", ComplexString.NICK_OFF);
+     }
+Index: src/Messages/MessageItem.java
+===================================================================
+--- src/Messages/MessageItem.java	(revision 1366)
++++ src/Messages/MessageItem.java	(working copy)
+@@ -156,17 +156,23 @@
+         //urlList.addElement(url);
+     }*/
+     
+-    public Vector getUrlList() { 
++    public Vector getUrlList() {
+         Vector urlList=new Vector();
+-        addUrls(msg.getBody(), urlList);
++        addUrls(msg.getBody(), "http://", urlList);
++        addUrls(msg.getBody(), "https://", urlList);
++        addUrls(msg.getBody(), "ftp://", urlList);
++        addUrls(msg.getBody(), "tel:", urlList);
++        addUrls(msg.getBody(), "native:", urlList);
+         return (urlList.size()==0)? null: urlList;
+     }
+-
+-    private void addUrls(String text, Vector urlList) {
++    
++    private void addUrls(String text, String addString, Vector urlList) {
+         int pos=0;
+         int len=text.length();
+         while (pos<len) {
+-            int head=text.indexOf("http://", pos);
++            int head=text.indexOf(addString, pos);
+             if (head>=0) {
+                 pos=head;
+                 
