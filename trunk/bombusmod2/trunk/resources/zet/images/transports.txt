@@ -1,0 +1,11 @@
+aim	/images/aim.png
+icq	/images/icq.png
+jit	/images/icq.png
+msn	/images/msn.png
+mrim	/images/mrim.png
+rss	/images/rss.png
+yahoo	/images/yahoo.png
+muc#vis	/images/visitors.png
+weather	/images/weather.png
+vkontakte	/images/vkontakte.png
+pyvk-t	/images/vkontakte.png
