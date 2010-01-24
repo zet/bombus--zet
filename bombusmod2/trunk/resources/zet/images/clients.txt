@@ -1,0 +1,48 @@
+﻿http://apps.radio-t.com/caps	AIR Radio-T
+http://bombus-im.org/java	Bombus
+http://bombus-im.org/ng	BombusNG
+http://psi-dev.googlecode.com/caps	Psi+
+http://miranda-im.org/caps	Miranda
+http://voffk.org.ru/bombus	Bombus+
+http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
+http://tkabber.jabber.ru/	Tkabber
+http://gajim.org/caps,http://gajim.org	Gajim
+http://pda.qip.ru/caps	QIP PDA
+http://gaim.sf.net/caps,http://pidgin.im/caps	Libpurple (old)
+http://kopete.kde.org/jabber/caps	Kopete
+http://exodus.jabberstudio.org/caps	Exodus
+-Z-r	SieJC
+http://bitlbee.org/xmpp/caps	BitlBee
+http://coccinella.sourceforge.net/protocol/caps	Coccinella
+http://mcabber.lilotux.net/caps,http://mcabber.com/caps	mcabber
+http://www.apple.com/ichat/caps	iChatAgent
+http://dev.jabbim.cz/jabbim/caps	Jabbim
+http://bombusng-qd.googlecode.com	BombusQD-NG
+Home,home,House,house,дом,Дом	Home
+http://vacuum,http://code.google.com/p/vacuum-im/	Vacuum IM
+http://jajc.jrudevels.org/caps	JAJC
+http://java.util.Random,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
+http://bombusng-md.googlecode.com	BombusNG-MD
+http://mchat.mgslab.com/	mChat
+http://pidgin.im/	Libpurple
+http://online.yandex.ru/caps	Я.Онлайн
+http://qutim.org	qutIM
+http://bombusmod-qd.wen.ru/caps	BombusQD
+http://bombusmod.net.ru/caps,http://BombusMod.net.ru,http://ex-im.name/caps	BombusMod
+http://psi-im.org/caps	Psi
+http://jimm.net.ru/caps	Jimm aspro
+http://glu.net/	glu
+http://bluendo.com/protocol/caps	Lampiro
+nimbuzz.com	Nimbuzz
+http://qip.ru/caps	QIP Infium
+http://jabber.pdg.pl/caps,http://klub54,http://bombusmod.eu,http://bombus.pl/caps,.pl/caps	Fake Bombus (PL)
+http://agent.mail.ru	MobileAgent
+http://isida.googlecode.com,http://isida-bot.com	Isida Jabber Bot
+http://telepathy.freedesktop.org/caps	Telepathy
+http://jit.,http://py,mail.ru,bk.ru,inbox.ru,list.ru,svn.xmpp.ru	Jabber Transport
+http://palringo.com/caps	Palringo
+http://juick.com/caps,http://pjc.googlecode.com/caps,http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,Bot,freQ,freq	Jabber Bot
+http://simak.ru/caps,http://simak.ru/tt/caps,http://bombus,http://butterfly/caps,bombus-,.id/caps	Fake Bombus
+http://	неизвестный <caps>
+q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,-,@,#,&,/,1,2,3,4,5,6,7,8,9,0	неизвестен
+9.ru,,0.ru	Bombus Avalon
