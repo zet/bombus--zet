@@ -1,0 +1,71 @@
+# поправлены слова с буквой "ё"
+# (c) zet <zet@bombus-im.org>
+Index: resources/pep/lang/ru.moods.txt
+===================================================================
+--- resources/pep/lang/ru.moods.txt	(revision 1360)
++++ resources/pep/lang/ru.moods.txt	(working copy)
+@@ -1,11 +1,11 @@
+-﻿//user moods translation
++//user moods translation
+ 
+ afraid	испуганное
+-amazed	изумленное
++amazed	изумлённое
+ angry	рассерженное
+-annoyed	раздраженное
++annoyed	раздражённое
+ anxious	беспокойное
+-aroused	возбужденное
++aroused	возбуждённое
+ ashamed	пристыженное
+ bored	скучающее
+ brave	смелое
+@@ -19,7 +19,7 @@
+ disappointed	разочарованное
+ disgusted	чувствую отвращение
+ distracted	растерянное
+-embarrassed	смущенное
++embarrassed	смущённое
+ excited	взволнованное
+ flirtatious	кокетливое
+ frustrated	расстроенное
+@@ -28,15 +28,15 @@
+ happy	счастливое
+ hot	жарко
+ humbled	смиренное
+-humiliated	оскорбленное
++humiliated	оскорблённое
+ hungry	хочу есть
+-hurt	уязвленное
++hurt	уязвлённое
+ impressed	под впечатлением
+-in_awe	подчиненное
+-in_love	влюбленное
+-indignant	возмущенное
++in_awe	подчинённое
++in_love	влюблённое
++indignant	возмущённое
+ interested	заинтересованное
+-intoxicated	опьяненное
++intoxicated	опьянённое
+ invincible	неукротимое
+ jealous	ревнивое
+ lonely	одинокое
+@@ -52,13 +52,13 @@
+ restless	неугомонное
+ sad	печальное
+ sarcastic	язвительное
+-serious	серьезное
+-shocked	потрясенное
++serious	серьёзное
++shocked	потрясённое
+ shy	застенчивое
+ sick	болезненное
+ sleepy	сонное
+-stressed	напряженное
+-surprised	удивленное
++stressed	напряжённое
++surprised	удивлённое
+ thirsty	хочу пить
+ worried	взволнованное
+ -	<нет настроения>
