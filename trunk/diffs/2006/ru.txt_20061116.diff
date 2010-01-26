@@ -1,0 +1,37 @@
+# обновление русской локализации
+# (c) zet
+Index: resources\text\lang\ru.txt
+===================================================================
+--- ru.txt	(revision 853)
++++ ru.txt	(working copy)
+@@ -235,3 +235,30 @@
+ 
+ Participants	Участники
+ Abc	Абв
++
++Are You sure want to clear messagelist?	Вы действительно хотите очистить список сообщений?
++SASL login	SASL-соединение
++Features	Особенности
++Show password	Показать пароль
++No client version available	Информация о версии клиента недоступна
++Message limit	Ограничение количества сообщений
++Opening stream	Открытие потока
++SASL handshake	SASL-соглашение
++Using compression	Использование компрессии
++Authenticating	Аутентификация
++Resource binding	Назначение ресурса
++Initiating session	Инициирование сессии
++Text wrapping	Перенос текста
++by chars	по символам
++by words	по словам
++Info	Информация
++Reply	Ответ
++Send status	Назначить статус
++Are you sure want to BAN this person?	Вы действительно хотите забанить этот контакт?
++No reason	Без причины
++Recent	Недавние варианты
++Shot	Снять
++Select file	Выбрать файл
++Load Photo	Загрузить фото
++Clear Photo	Удалить фото
++Camera	Камера
