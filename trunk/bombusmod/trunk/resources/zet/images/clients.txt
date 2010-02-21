@@ -14,7 +14,7 @@ http://exodus.jabberstudio.org/caps	Exodus
 -Z-r	SieJC
 http://bitlbee.org/xmpp/caps	BitlBee
 http://coccinella.sourceforge.net/protocol/caps	Coccinella
-http://mcabber.lilotux.net/caps,http://mcabber.com/caps	mcabber
+http://mcabber.com/caps	mcabber
 http://www.apple.com/ichat/caps	iChatAgent
 http://dev.jabbim.cz/jabbim/caps	Jabbim
 http://bombusng-qd.googlecode.com	BombusQD-NG
@@ -28,7 +28,7 @@ http://pidgin.im/	Libpurple
 http://online.yandex.ru/caps	Я.Онлайн
 http://qutim.org	qutIM
 http://bombusmod-qd.wen.ru/caps	BombusQD
-http://bombusmod.net.ru/caps,http://BombusMod.net.ru,http://ex-im.name/caps	BombusMod
+http://bombusmod.net.ru/caps,http://BombusMod.net.ru	BombusMod
 http://psi-im.org/caps	Psi
 http://jimm.net.ru/caps	Jimm aspro
 http://glu.net/	glu
@@ -41,14 +41,14 @@ http://isida.googlecode.com,http://isida-bot.com	Isida Jabber Bot
 http://telepathy.freedesktop.org/caps	Telepathy
 http://bombus-im.org/java	Bombus
 http://gajim.org	Gajim
+http://mcabber.lilotux.net/caps	mcabber (old)
+http://ex-im.name/caps	EX
 http://-----.-.-----.-.-----1--	неизвестен
 http://-----.-.-----.-.-----2--	неизвестен
 http://-----.-.-----.-.-----3--	неизвестен
 http://-----.-.-----.-.-----4--	неизвестен
 http://-----.-.-----.-.-----5--	неизвестен
-http://-----.-.-----.-.-----6--	неизвестен
-http://-----.-.-----.-.-----7--	неизвестен
-http://-----.-.-----.-.-----8--	неизвестен
+http://barobin.com,http://www.barobin.com	BayanICQ
 JuickME	JuickME
 http://juick.com/caps,http://pjc.googlecode.com/caps,Juick	Juick Bot
 http://jabber.pdg.pl/caps,http://klub54	BombusKlub
