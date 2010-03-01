@@ -30,7 +30,7 @@ working_out	на тренировке
 grooming	ухаживаю за собой
 at_the_spa	в spa-салоне
 brushing_teeth	чищу зубы
-getting_a_haircut	причесываюсь
+getting_a_haircut	причёсываюсь
 shaving	бреюсь
 taking_a_bath	принимаю ванну
 taking_a_shower	принимаю душ
@@ -64,10 +64,10 @@ on_video_phone	по видеофону
 traveling	путешествую
 commuting	на работу/с работы
 cycling	на велосипеде
-driving	за рулем
+driving	за рулём
 in_a_car	на машине
 on_a_bus	на автобусе
-on_a_plane	на самолете
+on_a_plane	на самолёте
 on_a_train	на поезде
 on_a_trip	в поездке
 walking	пешком

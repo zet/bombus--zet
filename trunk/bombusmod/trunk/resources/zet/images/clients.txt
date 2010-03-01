@@ -43,14 +43,14 @@ http://bombus-im.org/java	Bombus
 http://gajim.org	Gajim
 http://mcabber.lilotux.net/caps	mcabber (old)
 http://ex-im.name/caps	EX
-http://-----.-.-----.-.-----1--	неизвестен
+http://pjc.googlecode.com/caps	JuBo
 http://-----.-.-----.-.-----2--	неизвестен
 http://-----.-.-----.-.-----3--	неизвестен
 http://-----.-.-----.-.-----4--	неизвестен
 http://-----.-.-----.-.-----5--	неизвестен
 http://barobin.com,http://www.barobin.com	BayanICQ
 JuickME	JuickME
-http://juick.com/caps,http://pjc.googlecode.com/caps,Juick	Juick Bot
+http://juick.com/caps,Juick	Juick Bot
 http://jabber.pdg.pl/caps,http://klub54	BombusKlub
 http://java.util.Random,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
 Home,home,House,house,дом,Дом	домашний
