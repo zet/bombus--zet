@@ -58,7 +58,7 @@ Work,work,работ,job,Job,ffice,офис,Офис	рабочий
 aptop,otebook,desk,Desk,msi,MSI,jabber.el,Jabber.el,irssi-xmpp	PC, notebook
 http://jit.,http://py,mail.ru,bk.ru,inbox.ru,list.ru,svn.xmpp.ru	Jabber Transport
 http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,Bot,freQ,freq,ocaml,Ocaml	Jabber Bot
-http://simak.ru/caps,http://simak.ru/tt/caps,http://bombus,http://butterfly/caps,bombus-	Fake Bombus
+http://simak.ru,http://bombus,http://butterfly/caps,bombus-,//caps,:caps	Fake Bombus
 http://	не в списке
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,-,@,#,&,/,1,2,3,4,5,6,7,8,9,0	неизвестен
 9.ru,,0.ru	Bombus Avalon
