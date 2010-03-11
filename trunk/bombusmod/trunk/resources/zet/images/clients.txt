@@ -33,7 +33,7 @@ http://psi-im.org/caps	Psi
 http://jimm.net.ru/caps	Jimm aspro
 http://glu.net/	glu
 http://bluendo.com/protocol/caps	Lampiro
-nimbuzz.com	Nimbuzz
+nimbuzz:caps	Nimbuzz
 http://qip.ru/caps	QIP Infium
 http://bombusmod.eu,http://bombus.pl	BombusMod (PL)
 http://agent.mail.ru	Mobile Agent
@@ -44,10 +44,10 @@ http://gajim.org	Gajim
 http://mcabber.lilotux.net/caps	mcabber (old)
 http://ex-im.name/caps	EX
 http://pjc.googlecode.com/caps	JuBo
+http://trillian.im/caps	Trillian
+http://-----.-.-----.-.-----1--	неизвестен
 http://-----.-.-----.-.-----2--	неизвестен
 http://-----.-.-----.-.-----3--	неизвестен
-http://-----.-.-----.-.-----4--	неизвестен
-http://-----.-.-----.-.-----5--	неизвестен
 http://barobin.com,http://www.barobin.com	BayanICQ
 JuickME	JuickME
 http://juick.com/caps,Juick	Juick Bot
@@ -56,9 +56,9 @@ http://java.util.Random,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus
 Home,home,House,house,дом,Дом	домашний
 Work,work,работ,job,Job,ffice,офис,Офис	рабочий
 aptop,otebook,desk,Desk,msi,MSI,jabber.el,Jabber.el,irssi-xmpp	PC, notebook
-http://jit.,http://py,mail.ru,bk.ru,inbox.ru,list.ru,svn.xmpp.ru	Jabber Transport
+http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,egistered	Jabber Transport
 http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,Bot,freQ,freq,ocaml,Ocaml	Jabber Bot
-http://simak.ru,http://bombus,http://butterfly/caps,bombus-,//caps,:caps	Fake Bombus
+http://simak.ru,http://bombus,http://butterfly,bombus-,//caps,:caps,.caps,jw.lt/,nimbuzzmod,nimbuzz.com	Fake Bombus
 http://	не в списке
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,-,@,#,&,/,1,2,3,4,5,6,7,8,9,0	неизвестен
 9.ru,,0.ru	Bombus Avalon
