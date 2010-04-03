@@ -1,10 +1,10 @@
-﻿ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,indonesia/caps,none/caps,jawa/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps	Fake Bombus
+﻿ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,indonesia/caps,none/caps,jawa/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps	Fake Bombus
 http://oneteam.im/caps	OneTeam
 http://bombus-im.org/ng	BombusNG
 http://psi-dev.googlecode.com/caps	Psi+
 http://miranda-im.org/caps	Miranda
 http://voffk.org.ru/bombus	Bombus+
-http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
+http://trillian.im/caps	Trillian
 http://tkabber.jabber.ru/	Tkabber
 http://gajim.org/caps,http://gajim.org/	Gajim (old)
 http://pda.qip.ru/caps	QIP PDA
@@ -36,29 +36,29 @@ http://bluendo.com/protocol/caps	Lampiro
 nimbuzz:caps	Nimbuzz
 http://qip.ru/caps	QIP Infium
 http://bombusmod.eu,http://bombus.pl	BombusMod (PL)
-http://agent.mail.ru	Mobile Agent
+http://mcabber.lilotux.net/caps	mcabber (old)
 http://isida.googlecode.com,http://isida-bot.com	Isida Jabber Bot
 http://apps.radio-t.com/caps	AIR Radio-T
 http://bombus-im.org/java	Bombus
 http://gajim.org	Gajim
-http://mcabber.lilotux.net/caps	mcabber (old)
 http://ex-im.name/caps	EX
 http://pjc.googlecode.com/caps	JuBo
-http://trillian.im/caps	Trillian
+http://jabber.pdg.pl/caps,http://klub54	BombusKlub
 -Z-r	SieJC
-http://barobin.com,http://www.barobin.com	BayanICQ
+http://java.util.Random,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
+http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,registered	Jabber Transport
+http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,freq,ocaml	Jabber Bot
 JuickME	JuickME
 http://juick.com/caps,Juick	Juick Bot
-http://jabber.pdg.pl/caps,http://klub54	BombusKlub
-http://java.util.Random,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
-Home,home,House,house,дом,Дом	домашний
-Work,work,работ,job,Job,ffice,офис,Офис	рабочий
-http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,egistered	Jabber Transport
-http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,Bot,freQ,freq,ocaml,Ocaml	Jabber Bot
-http://simak.ru,http://bombus,bombus-,:caps,nimbuzzmod,nimbuzz.com,bombusmod.net,jabbim/caps	Fake Bombus
+http://simak.ru,http://bombus,bombus-,:caps,nimbuzzmod,nimbuzz.com,bombusmod.net,ex-im,psi-dev.g,miranda-im.org,voffk.org,tkabber.jabb,gajim.org,pidgin.im,kopete.kde.,exodus.jab,bitlbee.org,coccinella.sour,mcabber.com,lilotux.net,jabbim.cz/,palringo.com,gaim.sf.,mgslab.com,pidgin.im,qutim.org,psi-im.org,glu.net,bluendo.com,ida-bot.com,oneteam.im,java.util.,talkonaut.,jabbim/caps,jajc.jrudevels.,.jw.,.lt/,pigeon!/caps	Fake Bombus
+talkonaut4-java,talkonaut-WM_,talkonaut-S60-3rd_,talkonaut-S60-2nd_,talkonaut-iphone_	Talkonaut
+http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
+Telepathy.	Empathy
 http://	не в списке
-http://telepathy.freedesktop.org,Telepathy.	Telepathy
-aptop,otebook,desk,Desk,msi,MSI,jabber.el,Jabber.el,irssi-xmpp	PC, notebook
-ex-im,psi-dev.g,miranda-im.org,voffk.org,google.com,tkabber.jabb,gajim.org,qip.ru,pidgin.im,kopete.kde.,exodus.jab,bitlbee.org,coccinella.sour,mcabber.com,apple.com,lilotux.net,jabbim.cz/,palringo.com,jrudevels.org,gaim.sf.,mgslab.com,pidgin.im,yandex.ru,qutim.org,psi-im.org,.net.ru,glu.net,bluendo.com,ida-bot.com,googlecode.com,oneteam.im,telepathy.freed,juick.com,java.util.,.org.ru,talkonaut.com/caps	Fake Bombus
+talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Fake Bombus
+home,house,dom,дом,Дом	домашний
+work,работ,job,office,офис,Офис	рабочий
+laptop,notebook,Ноут,desk,jabber.el,irssi-xmpp	PC, notebook
+Pigeon!
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,-,@,#,&,/,1,2,3,4,5,6,7,8,9,0	неизвестен
 9.ru,,0.ru	Bombus Avalon
