@@ -14,7 +14,7 @@ http://exodus.jabberstudio.org/caps	Exodus
 http://bombus-im.org/java#	Bombus (old)
 http://bitlbee.org/xmpp/caps	BitlBee
 http://coccinella.sourceforge.net/protocol/caps	Coccinella
-http://mcabber.com/caps	mcabber
+http://mcabber.lilotux.net/caps	mcabber (old)
 http://www.apple.com/ichat/caps	iChatAgent
 http://dev.jabbim.cz/jabbim/caps	Jabbim
 http://bombusng-qd.googlecode.com	BombusQD-NG
@@ -36,7 +36,7 @@ http://bluendo.com/protocol/caps	Lampiro
 nimbuzz:caps	Nimbuzz
 http://qip.ru/caps	QIP Infium
 http://bombusmod.eu,http://bombus.pl	BombusMod (PL)
-http://mcabber.lilotux.net/caps	mcabber (old)
+http://mcabber.com/caps	mcabber
 http://isida.googlecode.com,http://isida-bot.com	Isida Jabber Bot
 http://apps.radio-t.com/caps	AIR Radio-T
 http://bombus-im.org/java	Bombus
@@ -44,6 +44,9 @@ http://gajim.org	Gajim
 http://ex-im.name/caps	EX
 http://pjc.googlecode.com/caps	JuBo
 http://sonicrevolution.no.sapo.pt	Sonic Revolution
+http://www.barobin.com/caps	BayanICQ
+http://pandion.im/	Pandion
+http://home.gna.org	Omni presence
 http://-----1------	неизвестен
 http://-----2------	неизвестен
 http://-----3------	неизвестен
@@ -56,10 +59,7 @@ http://-----9------	неизвестен
 http://-----10-----	неизвестен
 http://-----11-----	неизвестен
 http://-----12-----	неизвестен
-http://-----13-----	неизвестен
-http://-----14-----	неизвестен
-http://-----15-----	неизвестен
-http://jabber.pdg.pl/caps,http://klub54	BombusKlub
+http://jabber.pdg.pl/caps,http://klub54.	BombusKlub
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
 http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,registered	Jabber Transport
@@ -76,5 +76,5 @@ home,house,dom,дом,Дом	домашний
 work,работ,job,office,офис,Офис	рабочий
 laptop,notebook,Ноут,desk,jabber.el,irssi-xmpp,kagaku	PC, notebook
 Pigeon!
-q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,-,@,#,&,/,1,2,3,4,5,6,7,8,9,0	неизвестен
+q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,_,=,\,-,@,.,#,&,/,',~,^,*,(,),+,`,:,;,[,],$,%,±,º,«,»,€,¢,¿,í,ç,ö,õ,®,©,§,á,æ,þ,¥,£,ì,ï,î,ø,ñ,1,2,3,4,5,6,7,8,9,0,й,ц,у,к,е,н,г,ш,щ,з,х,ъ,ф,ы,в,а,п,р,о,л,д,ж,э,я,ч,с,м,и,т,ь,б,ю	неизвестен
 9.ru,,0.ru	Bombus Avalon
