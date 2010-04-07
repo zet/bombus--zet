@@ -62,7 +62,7 @@ http://-----12-----	неизвестен
 http://jabber.pdg.pl/caps,http://klub54.	BombusKlub
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon
-http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,registered	Jabber Transport
+http://spectrum.im/transport,http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inbox.ru,list.ru,registered	Jabber Transport
 http://jabbrik.ru/caps,http://jabrvista.net.ru,bot,freq,ocaml	Jabber Bot
 JuickME	JuickME
 http://juick.com/caps,Juick	Juick Bot
@@ -75,6 +75,6 @@ java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com
 home,house,dom,дом,Дом	домашний
 work,работ,job,office,офис,Офис	рабочий
 laptop,notebook,Ноут,desk,jabber.el,irssi-xmpp,kagaku	PC, notebook
-Pigeon!
+Pigeon!	Pigeon
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,_,=,\,-,@,.,#,&,/,',~,^,*,(,),+,`,:,;,[,],$,%,±,º,«,»,€,¢,¿,í,ç,ö,õ,®,©,§,á,æ,þ,¥,£,ì,ï,î,ø,ñ,1,2,3,4,5,6,7,8,9,0,й,ц,у,к,е,н,г,ш,щ,з,х,ъ,ф,ы,в,а,п,р,о,л,д,ж,э,я,ч,с,м,и,т,ь,б,ю	неизвестен
-9.ru,,0.ru	Bombus Avalon
+9.ru,,0.ru	Bombus Avalon(?)
