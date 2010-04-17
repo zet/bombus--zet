@@ -364,7 +364,7 @@ Auto translit2Cyr	Автоотправка транслита кириллице
 Check Updates	Проверка обновлений
 Show Resources	показывать ресурсы контактов
 Collapsed groups	сворачивать группы при запуске
-Send Buffer	Послать текст из буфера
+Send Buffer	Отправить текст из буфера
 Change nickname	Сменить ник
 Message collapse limit	Сворачивать сообщение больше (символов)
 Width scroll	Ширина скролла
@@ -400,7 +400,7 @@ Quit?	Выйти?
 Are you sure want to Quit?	Вы действительно хотите выйти?
 exit confirmation	подтверждение выхода
 show last appeared contacts	Показывать недавно подключившихся:
-custom keys	сочетания кнопок
+Custom keys	Сочетания кнопок
 Add custom key	Добавить сочетание кнопок
 keys action	действие
 enabled	включено
@@ -528,11 +528,11 @@ File manager	Менеджер файлов
 remote control	удалённое управление
 Version	Версия
 Use	Использует
-Juick (Focus & Commands)	Juick (Фокус и Команды
-[J] New comment	[J] Новый комментарий
-[J] Reply to comment	[J] Ответ на комментарий
+Juick (Focus & Commands)	Juick (Фокус и Команды)
+[J] Reply to message	[J] Ответить на сообщение
 [J] Reply to	[J] Ответить
 [J] Things	[J] Сущности
+[J] Delete message	[J] Удалить сообщение
 [J] Subscribe to comments	[J] Подписаться на комментарии
 [J] Unsubscribe from comments	[J] Отписаться от комментариев
 [J] Recommend post	[J] Порекомендовать пост
