@@ -528,7 +528,7 @@ File manager	Менеджер файлов
 remote control	удалённое управление
 Version	Версия
 Use	Использует
-Juick (Focus & Commands)	Juick (Фокус и Команды)
+Focus to Juick contact	Фокус на Juick контакте
 [J] Reply to message	[J] Ответить на сообщение
 [J] Reply to	[J] Ответить
 [J] Things	[J] Сущности
@@ -542,3 +542,4 @@ For work this command you need contact juick@juick.com in you roster. For more i
 Next	Далее
 Users search	Поиск пользователей
 Memory cleaning	очистка памяти
+Apply	Применить
