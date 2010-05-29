@@ -1,4 +1,4 @@
-﻿storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	Shit!
+﻿http://swift.im/,storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	с поддельным капсом
 http://oneteam.im/caps	OneTeam
 http://bombus-im.org/ng	BombusNG
 http://psi-dev.googlecode.com/caps	Psi+
@@ -41,12 +41,12 @@ http://isida.googlecode.com,http://isida-bot.com	Isida Jabber Bot
 http://apps.radio-t.com/caps	AIR Radio-T
 http://bombus-im.org/java	Bombus
 http://gajim.org	Gajim
-http://ex-im.name/caps	EX
+http://swift.im	Swift
 http://pjc.googlecode.com/caps	JuBo
 http://sonicrevolution.no.sapo.pt	Sonic Revolution
 http://www.barobin.com/caps	BayanICQ
-http://home.gna.org	omni presence
-http://BombusMod.net.ru	BombusMod (old)
+http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
+http://BombusMod.net.ru,http://ex-im.name/caps	BombusMod (old)
 http://messenger.sapo.pt	Sapo Messenger
 http://svn.posix.ru/fatal-bot/trunk	Fatal Bot
 http://storm-bot.googlecode.com/svn/trunk	Storm Bot
@@ -60,14 +60,14 @@ http://spectrum.im/transport,http://jit.,http://py,svn.xmpp.ru,mail.ru,bk.ru,inb
 JuickME	JuickME
 http://juick.com/caps,Juick	Juick Bot
 http://aquabm.fileave.com/caps,android/caps,http://jabiru/,kagaku/caps,http://пандион,пандион/caps,im+/caps,beejive/caps,skylovers/caps,maha-im,http://simak.ru,http://bombus,bombus-,:caps,nimbuzzmod,nimbuzz.com,bombusmod.net,ex-im,psi-dev.g,miranda-im.org,voffk.org,tkabber.jabb,gajim.org,kopete.kde.,exodus.jab,bitlbee.org,coccinella.sour,mcabber.com,lilotux.net,jabbim.cz/,palringo.com,gaim.sf.,mgslab.com,pidgin.im,qutim.org,psi-im.org,glu.net,bluendo.com,ida-bot.com,oneteam.im,java.util.,talkonaut.,jabbim/caps,jajc.jrudevels.,.jw.,.lt/,pigeon!/caps,.ru.ua/,.ua.ru/,http://tomacho.,.xtgem.com	Fake Bombus
-http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
+jame-bot	Jame Bot
 freq	freQ Bot
 bot,ocaml	Jabber Bot
 telepathy.	Empathy
 http://	не в списке
-pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Fake Bombus
+swift.im,pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	с поддельным капсом
 home,house,дом	домашний
-work,работ,job,office,офис	рабочий
+work,работ,job,office,офис,Oфис,Oфиc,Офиc	рабочий
 Ψ,ψ,laptop,notebook,Ноут,desk,irssi-xmpp,tkabber,psi,mcabber,kopete	PC, Notebook
 android	Android
 jabiru	jabiru
@@ -77,4 +77,4 @@ Pigeon!	Pigeon
 Пандион,Pandion	Pandion
 kagaku	jabber.el
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,_,=,\,-,@,.,#,&,/,',~,^,*,(,),+,`,:,;,[,],$,%,±,º,«,»,€,¢,¿,í,ç,ö,õ,®,©,§,á,æ,þ,¥,£,ì,ï,î,ø,ñ,1,2,3,4,5,6,7,8,9,0,й,ц,у,к,е,н,г,ш,щ,з,х,ъ,ф,ы,в,а,п,р,о,л,д,ж,э,я,ч,с,м,и,т,ь,б,ю	неизвестен
-9.ru,,0.ru	Bombus Avalon*
+9.ru,,0.ru	Bombus Avalon (?)
