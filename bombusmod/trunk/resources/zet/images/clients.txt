@@ -19,7 +19,7 @@ http://www.apple.com/ichat/caps	iChatAgent
 http://dev.jabbim.cz/jabbim/caps	Jabbim
 http://bombusng-qd.googlecode.com	BombusQD-NG
 http://palringo.com/caps	Palringo (uTalk)
-http://vacuum-im.googlecode.com,http://code.google.com/p/vacuum-im/	Vacuum
+http://vacuum-im.googlecode.com,http://code.google.com/p/vacuum-im/	Vacuum IM
 http://jajc.jrudevels.org/caps	JAJC
 http://gaim.sf.net/caps	Gaim
 http://bombusng-md.googlecode.com	BombusNG-MD
@@ -55,7 +55,7 @@ http://camaya.net/gloox	Gluxi Bot
 http://jabber.pdg.pl/caps,http://klub54.wen.ru	BombusKlub
 http://aqq.eu/	AQQ
 http://ex-im.name/caps	EX
-http://memegenerator.net/bolgenos-popov	Jabber by Popov
+http://memegenerator.net/bolgenos-popov	Jabber Попова
 http://home.gna.org	omni presence
 http://-----1-----/---	неизвестен
 http://-----2-----/---	неизвестен
@@ -93,4 +93,4 @@ Pigeon!	Pigeon
 Пандион,Pandion	Pandion
 kagaku	jabber.el
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,_,=,\,-,@,.,#,&,/,',~,^,*,(,),+,`,:,;,[,],$,%,±,º,«,»,€,¢,¿,í,ç,ö,õ,®,©,§,á,æ,þ,¥,£,ì,ï,î,ø,ñ,1,2,3,4,5,6,7,8,9,0,й,ц,у,к,е,н,г,ш,щ,з,х,ъ,ф,ы,в,а,п,р,о,л,д,ж,э,я,ч,с,м,и,т,ь,б,ю	неизвестен
-9.ru,,0.ru	Bombus Avalon (?)
+9.ru,,0.ru	Bombus Avalon (в ростере м.б. ошибка)
