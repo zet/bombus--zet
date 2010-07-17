@@ -1,4 +1,4 @@
-﻿http://aqq.eu/c,http://swift.im/,storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	поддельный
+﻿http://aqq.eu/c,http://swift.im/,storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	забракован на входе
 http://oneteam.im/caps	OneTeam
 http://bombus-im.org/ng	BombusNG
 http://psi-dev.googlecode.com/caps	Psi+
@@ -81,7 +81,7 @@ osiris-bot	Osiris Bot
 bot,ocaml,http://xu-6.jabbrik.ru/caps	Jabber Bot
 telepathy.	Empathy
 http://	не в списке
-aqq.eu,swift.im,pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	поддельный
+aqq.eu,swift.im,pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	забракован на выходе
 home,house,дом	домашний
 work,работ,job,office,офис,Oфис,Oфиc,Офиc	рабочий
 Ψ,ψ,laptop,notebook,Ноут,desk,irssi-xmpp,tkabber,psi,mcabber,kopete	PC, Notebook
