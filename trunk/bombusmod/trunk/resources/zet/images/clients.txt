@@ -63,8 +63,8 @@ http://movamessenger.com/caps	Mova messenger
 http://svn.posix.ru/fatal-bot/trunk,http://fatal-bot.spb.ru/caps	Fatal Bot
 http://lytgeygen.ru/caps	FlooJABconf
 http://jabbroid.akuz.de/caps	Jabbroid
+http://stranger.kiev.ua/caps	Capsula Bot
 http://-----1-----/---	неизвестен
-http://-----2-----/---	неизвестен
 http://barracuda.com,http://www.barracuda.com	Barracuda IM
 http://chat.ovi.com/caps	Ovi chat
 -Z-r	SieJC
@@ -93,4 +93,4 @@ Pigeon!	Pigeon
 Пандион,Pandion	Pandion
 kagaku	jabber.el
 q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,_,=,\,-,@,.,#,&,/,',~,^,*,(,),+,`,:,;,[,],$,%,±,º,«,»,€,¢,¿,í,ç,ö,õ,®,©,§,á,æ,þ,¥,£,ì,ï,î,ø,ñ,1,2,3,4,5,6,7,8,9,0,й,ц,у,к,е,н,г,ш,щ,з,х,ъ,ф,ы,в,а,п,р,о,л,д,ж,э,я,ч,с,м,и,т,ь,б,ю	неизвестен
-9.ru,,0.ru	Bombus Avalon (в ростере не исключена ошибка)
+9.ru,,0.ru	Bombus Avalon (в ростере возможна ошибка)
