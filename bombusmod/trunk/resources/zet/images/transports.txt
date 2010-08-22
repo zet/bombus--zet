@@ -7,6 +7,6 @@ rss	/images/rss.png
 yahoo	/images/yahoo.png
 muc#vis	/images/visitors.png
 weather	/images/weather.png
-vkontakte	/images/vkontakte.png
+vk	/images/vkontakte.png
 pyvk-t	/images/vkontakte.png
 j2j	/images/vkontakte.png
