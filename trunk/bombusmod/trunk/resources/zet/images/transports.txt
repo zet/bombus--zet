@@ -9,4 +9,4 @@ muc#vis	/images/visitors.png
 weather	/images/weather.png
 vk	/images/vkontakte.png
 pyvk-t	/images/vkontakte.png
-j2j	/images/vkontakte.png
+twitter	/images/twitter.png
