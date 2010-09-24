@@ -1,12 +1,12 @@
-﻿-im/caps,http://aqq.eu/c,http://swift.im/,storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	Indonesian hacker detected
+﻿-im/caps,http://aqq.eu/c,http://swift.im/,storm-bot.googlecode.com/svn/trunk/,fatal-bot/trunk/,caps/caps,http://bombusng-md.googlecode.com/caps,http://voffk.org.ru/bombus/caps,http://bombusng-qd.googlecode.com/caps,http://isida.googlecode.com/caps,http://bombus-im.org/ng/caps,ex-im.mobi,mod/caps,pandion/caps,psi/caps,miranda/caps,tkabber/caps,gajim/caps,qip/caps,pidgin/caps,kopete/caps,exodus/caps,bitlbee/caps,coccinella/caps,mchat/caps,vacuum/caps,gaim/caps,jajc/caps,qutim/caps,nimbuzz/caps,siejc/caps,trillian/caps,oneteam/caps,palringo/caps,psi-im/caps,butterfly/,//caps,.caps,jw.lt/caps,avalon/caps,telepathy/caps,mcabber/caps,juick/caps,jimm/caps,jubo/caps,isida/caps,none/caps,psi-im/caps,miranda-im/caps,talkonaut/caps,adium.com,adiumx.com,isida-bot/caps,vacuum-im/caps,:/caps,pigeon/caps,./caps,http://tkabber.jabber.ru/caps,http://qutim.org/caps,http://isida-bot.com/caps,http://bombus-im.org/java/caps,http://mchat.mgslab.com/caps,0.ru/caps,1.ru/caps,2.ru/caps,3.ru/caps,4.ru/caps,5.ru/caps,6.ru/caps,7.ru/caps,8.ru/caps,9.ru/caps	Indonesian
 http://oneteam.im/caps	OneTeam
-http://bombus-im.org/ng	BombusNG
+http://tkabber.jabber.ru/	Tkabber
+http://tkabber.null.ru/	Error 34
 http://psi-dev.googlecode.com/caps	Psi+
-http://miranda-im.org/caps	Miranda
+http://bombus-im.org/ng	BombusNG
 http://voffk.org.ru/bombus	Bombus+
 http://trillian.im/caps	Trillian
-http://tkabber.jabber.ru/	Tkabber
-http://gajim.org/caps,http://gajim.org/	Gajim (old)
+http://miranda-im.org/caps	Miranda
 http://pda.qip.ru/caps	QIP PDA
 http://pidgin.im/caps	Libpurple (old)
 http://kopete.kde.org/jabber/caps	Kopete
@@ -33,7 +33,7 @@ http://psi-im.org/caps	Psi
 http://jimm.net.ru/caps	Jimm aspro
 http://glu.net/	glu
 http://bluendo.com/protocol/caps	Lampiro
-nimbuzz:caps	Nimbuzz
+http://gajim.org/caps,http://gajim.org/	Gajim (old)
 http://qip.ru/caps	QIP Infium
 http://bombusmod.eu,http://bombus.pl	BombusMod (PL)
 http://mcabber.com/caps	mcabber
@@ -59,7 +59,7 @@ http://memegenerator.net/bolgenos-popov	Jabber-Popov
 http://jabber.pdg.pl/caps	BombusKlub (old)
 http://vacuum,http://code.google.com/p/vacuum-im/	Vacuum IM (old)
 http://2010.qip.ru/caps	QIP 2010
-http://movamessenger.com/caps	Mova messenger
+nimbuzz:caps	Nimbuzz
 http://svn.posix.ru/fatal-bot/trunk,http://fatal-bot.spb.ru/caps	Fatal Bot
 http://lytgeygen.ru/caps	FlooJABconf
 http://jabbroid.akuz.de/caps	Jabbroid
@@ -81,7 +81,7 @@ osiris-bot	Osiris Bot
 bot,ocaml,clon	Jabber Bot
 telepathy.	Empathy
 http://	не в списке
-aqq.eu,swift.im,pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Indonesian hacker detected
+aqq.eu,swift.im,pandion/caps,java.util.,/caps,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Indonesian
 home,house,дом	домашний
 work,работ,job,office,офис,Oфис,Oфиc,Офиc	рабочий
 Ψ,ψ,laptop,notebook,Ноут,desk,irssi-xmpp,tkabber,psi,mcabber,kopete	PC, Notebook
