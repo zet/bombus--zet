@@ -7,7 +7,7 @@ http://bombus-im.org/ng	BombusNG
 http://voffk.org.ru/bombus	Bombus+
 http://trillian.im/caps	Trillian
 http://miranda-im.org/caps	Miranda
-http://pda.qip.ru/caps	QIP PDA
+http://qip.ru/caps?QIP	QIP Mobile
 http://pidgin.im/caps	Libpurple (old)
 http://kopete.kde.org/jabber/caps	Kopete
 http://exodus.jabberstudio.org/caps	Exodus
@@ -49,7 +49,7 @@ http://www.google.com/xmpp/client/caps,talk.google.com	GoogleTalk
 http://BombusMod.net.ru	BombusMod (old)
 http://messenger.sapo.pt	Sapo messenger
 http://xu-6.jabbrik.ru/caps	XU-6 Bot
-http://storm-bot.googlecode.com/svn/trunk	Storm Bot
+http://storm-bot.googlecode.com/svn/trunk,svn.jsmart.web.id/storm	Storm Bot
 http://jabbrik.ru/caps,http://jabrvista.net.ru	Utah Jabber Bot
 http://camaya.net/gloox	gloox
 http://klub54.wen.ru	BombusKlub
@@ -70,6 +70,7 @@ http://chat.ovi.com/caps	Ovi chat
 http://www.asterisk.org/xmpp/client/caps	Asterisk
 http://japyt.googlecode.com	Japyt for iPhone
 http://megafonvolga.ru/	MegaFon Connect
+http://pda.qip.ru/caps	QIP PDA
 http://.----1----/	none
 http://.----2----/	none
 http://.----3----/	none
@@ -81,15 +82,14 @@ http://.----8----/	none
 http://.----9----/	none
 http://.---10---/	none
 http://.---11---/	none
-http://.---12---/	none
-http://.---13---/	none
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon (old)
 bombus-pandora	Bombus Pandora
 http://web-apps.ru/jabber-presence/,jdisk,http://home.gna.org/,msn,http://spectrum.im/transport,http://jit.,http://py,http://svn.xmpp.ru/,mail.ru,bk.ru,inbox.ru,list.ru,registered	Jabber Transport
 JuickME	JuickME
 http://juick.com/caps,Juick	Juick Bot
-kissmod.,fusion/,http://aquabm.fileave.com/caps,android/caps,http://jabiru/,kagaku/caps,http://пандион,пандион/caps,im+/caps,beejive/caps,skylovers/caps,maha-im,http://simak.ru,http://bombus,bombus-,:caps,nimbuzzmod,nimbuzz.com,http://bombusmod.,ex-im,psi-dev.,miranda-im.org,voffk.org,tkabber.jabb,gajim.org,kopete.kde.,exodus.,bitlbee.org,coccinella.sour,mcabber.com,lilotux.net,palringo.com,gaim.sf.,mgslab.com,pidgin.im,qutim.org,psi-im.org,glu.net,bluendo.com,ida-bot.com,oneteam.im,java.util.,talkonaut.,jabbim/caps,jajc.jrudevels.,.jw.,.lt/,pigeon!/caps,.ru.ua/,.ua.ru/,http://tomacho.,.xtgem.com	Fake Bombus
+http://leamare.tk	fake Jimm
+kissmod.,fusion/,http://aquabm.fileave.com/caps,android/caps,http://jabiru/,kagaku/caps,http://пандион,пандион/caps,im+/caps,beejive/caps,skylovers/caps,maha-im,http://simak.ru,http://bombus,bombus-,:caps,nimbuzzmod,nimbuzz.com,http://bombusmod.,ex-im,psi-dev.,miranda-im.org,voffk.org,tkabber.jabb,gajim.org,kopete.kde.,exodus.,bitlbee.org,coccinella.sour,mcabber.com,lilotux.net,palringo.com,gaim.sf.,mgslab.com,pidgin.im,qutim.org,psi-im.org,glu.net,bluendo.com,ida-bot.com,oneteam.im,java.util.,talkonaut.,jabbim/caps,jajc.jrudevels.,.jw.,.lt/,pigeon!/caps,.ru.ua/,.ua.ru/,http://tomacho.,.xtgem.com	fake Bombus
 jame-bot	Jame Bot
 freq	freQ Bot
 rss	RSS Feed Bot
