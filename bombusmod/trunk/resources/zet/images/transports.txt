@@ -5,3 +5,4 @@ rss	/images/rss.png
 cmeerw	/images/x-rss.png
 muc#vis	/images/visitors.png
 vk	/images/vkontakte.png
+j2j	/images/jabber.png
