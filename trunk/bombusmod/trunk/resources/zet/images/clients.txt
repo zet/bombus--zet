@@ -72,6 +72,7 @@ http://japyt.googlecode.com	Japyt for iPhone
 http://megafonvolga.ru/	MegaFon Connect
 http://pda.qip.ru/caps	QIP PDA
 http://leechcraft.org/azoth	Leechcraft
+http://jabber-net.ru/caps/talisman-bot	Talisman Bot
 http://.----1----/	none
 http://.----2----/	none
 http://.----3----/	none
@@ -81,7 +82,6 @@ http://.----6----/	none
 http://.----7----/	none
 http://.----8----/	none
 http://.----9----/	none
-http://.---10---/	none
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon (old)
 bombus-pandora	Bombus Pandora
