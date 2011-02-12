@@ -93,7 +93,7 @@ jame-bot	Jame Bot
 freq	freQ Bot
 rss	RSS Feed Bot
 osiris-bot	Osiris Bot
-bot,ocaml,Psto	Jabber Bot
+bot,ocaml,Kabul,Psto	Jabber Bot
 http://live.gnome.org/empathy/caps,telepathy.	Empathy
 http://,https://	не в списке
 aqq.eu,swift.im,/caps,java.util.,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	BombusMod (fake)
@@ -102,7 +102,7 @@ work,работ,job,office,офис,Oфис,Oфиc,Офиc	Work
 laptop,book,ноут	Laptop
 Ψ,ψ,desk,irssi-xmpp,tkabber,psi,mcabber,kopete	Desktop
 android	Android
-jabiru	jabiru
+jabiru	Jabiru
 IM+	IM+
 Beejive	Beejive IM
 Pigeon!	Pigeon
