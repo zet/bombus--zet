@@ -78,9 +78,9 @@ http://bombus-im.org/java#0.6.1296-Zlib	Bombus (old)
 http://bombus-im.org/java#	Bombus (old)
 http://bombus-im.org/java	Bombus
 https://www.jappix.com/	Jappix
+http://tkabber.jabber.ru	маскирующаяся Psi+
 http://.----1----/	none
 http://.----2----/	none
-http://.----3----/	none
 http://spectrum.im/transport	Spectrum IM Transport
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon (old)
