@@ -78,9 +78,9 @@ http://bombus-im.org/java#	Bombus (old)
 http://bombus-im.org/java	Bombus
 http://tkabber.jabber.ru,http://pidgin.im	Psi+ client switcher plugin
 http://lytgeygen.ru/caps	FlooJABconf
+http://www.igniterealtime.org/projects/smack/	Smack API
 http://.----1----/	none
-http://.----2----/	none
-http://.----3----/	none
+http://telepathy.freedesktop.org/caps	Empathy
 http://spectrum.im/transport	Spectrum IM
 -Z-r	SieJC
 http://java.util.Random@,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Bombus Avalon (old)
@@ -94,7 +94,7 @@ freq	freQ Bot
 rss	RSS Feed Bot
 osiris-bot	Osiris Bot
 bot,ocaml,Kabul,Psto	Jabber Bot
-http://live.gnome.org/empathy/caps,telepathy.	Empathy
+http://.----2----/	none
 http://,https://	не в списке
 aqq.eu,swift.im,/caps,java.util.,talkonaut,google.com,.net.ru,.ru/,qip.,apple.com,googlecode.com,.org.ru,juick.com,jrudevels.org,yandex.ru,.com/,0.ru,1.ru,2.ru,3.ru,4.ru,5.ru,6.ru,7.ru,8.ru,9.ru	Fake
 home,house,дом	Home
